@@ -108,7 +108,7 @@ F (.\TI_BRD_LIB\Simulation\rotarySIM.ini)(0x58DC1576)()
 F (.\TI_BRD_LIB\Simulation\timer2SIM.ini)(0x58DC1576)()
 F (.\TI_BRD_LIB\Simulation\userSIM.ini)(0x58DC1576)()
 F (.\main.c)(0x58DC1597)()
-F (.\main.s)(0x58F671F5)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x--pd "__UVISION_VERSION SETA 523"--list .\listings\main.lst --xref -o .\objects\main.o --depend .\objects\main.d)
+F (.\main.s)(0x58F8E060)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x--pd "__UVISION_VERSION SETA 523"--list .\listings\main.lst --xref -o .\objects\main.o --depend .\objects\main.d)
 F (.\TI_BRD_LIB\Library\keypad.h)(0x58DC1575)()
 F (.\TI_BRD_LIB\Library\tft.h)(0x58DC1575)()
 F (.\TI_BRD_LIB\Library\timer.h)(0x58DC1575)()
